@@ -3,22 +3,22 @@
     "path": "C:/Users/micgr/OneDrive/Studium/LBS/Semester 1/Applied Statistics/Class/web/Homepage/config.toml",
     "project_path": "Homepage/config.toml",
     "type": "toml",
-    "hash": "0",
+    "hash": "2000130873",
     "contents": "",
     "dirty": false,
     "created": 1600093319568.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
-        "cursorPosition": "126,51",
-        "scrollLine": "77"
+        "cursorPosition": "66,0",
+        "scrollLine": "53"
     },
     "folds": "",
-    "lastKnownWriteTime": 1600094072,
+    "lastKnownWriteTime": 1600103001,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1600094072228,
+    "last_content_update": 1600103001428,
     "read_only": false,
     "read_only_alternatives": []
 }
