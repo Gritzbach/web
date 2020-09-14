@@ -61,10 +61,10 @@ name = "team"
 URL = "team"
 weight = 4
 
-[[menu.main]]
-name = "pricing"
-URL = "pricing"
-weight = 5
+#[[menu.main]]
+#name = "pricing"
+#URL = "pricing"
+#weight = 5
 
 [[menu.main]]
 name = "blog"
