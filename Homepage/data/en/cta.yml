@@ -4,7 +4,7 @@ cta:
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   title : "Know more about me"
-  content : "I am Michael Gritzbach. I am an educated data scientist from London Business School and the Massachussets Institute of Technology, as well as an internationally focussed economist educated at Frankfurt School of Finance & Management, Columbia University, and Peking University.Furthmore, I am political commentator and passionated photo journalist with a focus on European politics and China."
+  content : "I am Michael Gritzbach.| I am an educated data scientist from London Business School and the Massachussets Institute of Technology, as well as an internationally focussed economist educated at Frankfurt School of Finance & Management, Columbia University, and Peking University.| Furthmore, I am a political commentator and passionated photo journalist with a focus on European politics and China."
   button:
     enable : true
     label : "Download CV"

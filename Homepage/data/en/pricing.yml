@@ -1,49 +1,49 @@
-##################################### pricing ##############################
-pricing:
-  enable : true
-  title : Rates
-  pricing_table :
-    # pricing table loop
-    - name : Photography Session
-      price : 35 Pounds
-      unit : Set
-      services:
-        - 5 Edited Photos
-        - 1 Photoshop Edited
-        - 1.5 Hours Shooting
-        - 2 Wardrobe
-        - Black & White included
-        - Full Rights (but published)
-      button:
-        label : "Reach out"
-        link : "#contact"
-      
-    # pricing table loop
-    - name : Videography Session
-      price : 40 Pounds
-      unit : 1.5 min
-      services:
-        - 1.5 Minute Video Material
-        - Color correction
-        - Name Tag
-        - Multi-Angle
-        - 1.5 Hours Editing
-        - Interview Setting Possible
-      button:
-        label : "Reach out"
-        link : "#contact"
-        
-    # # pricing table loop
-    # - name : Research Projects
-    #   price : 0-500 Euro
-    #   unit : Project
-    #   services:
-    #     - Depending on the project
-    #     - ""X
-    #     - ""X
-    #     - ""X
-    #     - ""X
-    #     - ""X
-    #   button:
-    #     label : "Reach out"
-    #     link : "#contact"        
+# ##################################### pricing ##############################
+# pricing:
+#   enable : true
+#   title : Rates
+#   pricing_table :
+#     # pricing table loop
+#     - name : Photography Session
+#       price : 35 Pounds
+#       unit : Set
+#       services:
+#         - 5 Edited Photos
+#         - 1 Photoshop Edited
+#         - 1.5 Hours Shooting
+#         - 2 Wardrobe
+#         - Black & White included
+#         - Full Rights (but published)
+#       button:
+#         label : "Reach out"
+#         link : "#contact"
+#       
+#     # pricing table loop
+#     - name : Videography Session
+#       price : 40 Pounds
+#       unit : 1.5 min
+#       services:
+#         - 1.5 Minute Video Material
+#         - Color correction
+#         - Name Tag
+#         - Multi-Angle
+#         - 1.5 Hours Editing
+#         - Interview Setting Possible
+#       button:
+#         label : "Reach out"
+#         link : "#contact"
+#         
+#     # # pricing table loop
+#     # - name : Research Projects
+#     #   price : 0-500 Euro
+#     #   unit : Project
+#     #   services:
+#     #     - Depending on the project
+#     #     - ""X
+#     #     - ""X
+#     #     - ""X
+#     #     - ""X
+#     #     - ""X
+#     #   button:
+#     #     label : "Reach out"
+#     #     link : "#contact"        
