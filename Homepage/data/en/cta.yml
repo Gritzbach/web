@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Download CV for further information"
-  content : "Interested in hiring me or cooperating? Take a look at my CV to learn more about my background and skills."
+  title : "Know more about me"
+  content : "I am Michael Gritzbach. I am an educated data scientist from London Business School and the Massachussets Institute of Technology, as well as an internationally focussed economist educated at Frankfurt School of Finance & Management, Columbia University, and Peking University.Furthmore, I am political commentator and passionated photo journalist with a focus on European politics and China."
   button:
     enable : true
     label : "Download CV"
-    link : "#contact"
+    link : "https://raw.githubusercontent.com/Gritzbach/Homepage/master/public/LBS%20CV%20Michael%20Gritzbach%20Summer%202020%20Upload.pdf"
