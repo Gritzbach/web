@@ -11,7 +11,7 @@ service:
     # service item loop
     - name : Economic Analysis
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : With a background in economics, I can help to build economic analysis and experiments. This includes behavioral economics and combinations with data analysis.                                                      
+      content : With a background in economics, I can help to build economic analysis and experiments. This includes behavioral economics, combinations with data analysis, and also market entry and strategy analysis.                                                       
       
     # service item loop
     - name : Business Plans
@@ -21,7 +21,7 @@ service:
     # service item loop
     - name : Data Analysis
       icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-      content : My background in Python and R programming from MIT and LBS allows me to create exhaustive data analysis. From 2021 onwards also with AI algorithms.
+      content : My background in Python and R programming from MIT and LBS allows me to create exhaustive data analysis. From 2021 onwards also with AI algorithms and grafical exports and presentation. Can be combined with photo and video offers.
       
     # service item loop
     - name : Photography Sessions
