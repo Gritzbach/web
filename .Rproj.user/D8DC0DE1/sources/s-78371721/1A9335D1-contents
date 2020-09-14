@@ -57,12 +57,12 @@ URL = "portfolio"
 weight = 3
 
 [[menu.main]]
-name = "me"
+name = "team"
 URL = "team"
 weight = 4
 
 [[menu.main]]
-name = "offers"
+name = "pricing"
 URL = "pricing"
 weight = 5
 
