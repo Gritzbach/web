@@ -8,7 +8,7 @@ portfolio:
       image : images/portfolio/portfolio-Columbia.jpg
       image_webp : images/portfolio/portfolio-Columbia.webp
       categories : ["blog"]
-      content : Talking about my experience applying for Ivy League universities during my undergrad.
+      content : About applying for Ivy League universities during undergrad.
       link : "https://blog.frankfurt-school.de/from-fs-to-ivy-league/"
       
     # portfolio item loop
@@ -24,8 +24,16 @@ portfolio:
       image : images/portfolio/portfolio-Harvard.jpg
       image_webp : images/portfolio/portfolio-Harvard.webp
       categories : ["blog"]
-      content : About achieving your long-time goals and what to do once you are there.
-      link : "https://blog.frankfurt-school.de/to-harvard-and-beyond/"         
+      content : Achieving your long-time goals and what to do when you're there.
+      link : "https://blog.frankfurt-school.de/to-harvard-and-beyond/"
+      
+    # portfolio item loop
+    - name : Scholarship around the world
+      image : images/portfolio/portfolio-KAS.jpg
+      image_webp : images/portfolio/portfolio-KAS.webp
+      categories : ["blog"]
+      content : Being a KAS Scholar abroad.
+      link : "https://www.kas-boccia.de/2020/03/30/scholarship-around-the-world/"        
       
     # portfolio item loop
     - name : Sound system
