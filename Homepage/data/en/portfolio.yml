@@ -4,73 +4,41 @@ portfolio:
   title : My Projects
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+    - name : From Frankfurt School to Ivy League
+      image : images/portfolio/portfolio-Columbia.jpg
+      image_webp : images/portfolio/portfolio-Columbia.webp
+      categories : ["blog"]
+      content : Talking about my experience applying for Ivy League universities during my undergrad.
+      link : "https://blog.frankfurt-school.de/from-fs-to-ivy-league/"
+      
+    # portfolio item loop
+    - name : Life at Columbia
+      image : images/portfolio/portfolio-NYC.jpg
+      image_webp : images/portfolio/portfolio-NYC.webp
+      categories : ["blog"]
+      content : Insights about my time at Columbia University.
+      link : "https://blog.frankfurt-school.de/life-at-columbia/"      
+      
+    # portfolio item loop
+    - name : To Harvard! And beyond?
+      image : images/portfolio/portfolio-Harvard.jpg
+      image_webp : images/portfolio/portfolio-Harvard.webp
+      categories : ["blog"]
+      content : About achieving your long-time goals and what to do once you are there.
+      link : "https://blog.frankfurt-school.de/to-harvard-and-beyond/"         
       
     # portfolio item loop
     - name : Sound system
       image : images/portfolio/portfolio-2.jpg
       image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
+      categories : ["code"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
-      
-    # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
       
     # portfolio item loop
     - name : Bottol Label
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
       categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"

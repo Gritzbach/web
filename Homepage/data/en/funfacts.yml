@@ -19,7 +19,7 @@ funfacts:
       icon : "ti-book" # themify icon pack : https://themify.me/themify-icons
       count : "7"
     
-    # counter item loop
-    - title : "Schools attended before graduating as valedictorian, student speaker, and top 3%"
-      icon : "ti-blackboard" # themify icon pack : https://themify.me/themify-icons
-      count : "11"
+    # # counter item loop
+    # - title : "Schools attended before graduating as valedictorian, student speaker, and top 3%"
+    #   icon : "ti-blackboard" # themify icon pack : https://themify.me/themify-icons
+    #   count : "11"
