@@ -314,6 +314,9 @@ a:hover {
   color: #666;
 }
 
+.title f {
+  color: #000;
+}
 .title.title-white h2 {
   color: #585c60;
 }
@@ -671,7 +674,7 @@ a:hover {
 }
 
 .call-to-action-2 p {
-  color: #fff;
+  color: #c9c9c9;
 }
 
 .call-to-action-2 .btn-main {
@@ -1524,7 +1527,7 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #26292e;
+  background-color: #c9c9c9;
   border: 1px solid transparent;
   display: block;
   height: 70px;
