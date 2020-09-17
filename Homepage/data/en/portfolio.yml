@@ -36,12 +36,12 @@ portfolio:
       link : "https://www.kas-boccia.de/2020/03/30/scholarship-around-the-world/"        
       
     # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+    - name : Final Project
+      image : https://raw.githubusercontent.com/Gritzbach/my_website/master/Singapore.jpg
+      image_webp : https://raw.githubusercontent.com/Gritzbach/my_website/master/Singapore.webp
       categories : ["code"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
+      content : The final project of Team 4 LBS MAM 2021.
+      link : "https://raw.githubusercontent.com/Gritzbach/my_website/master/pretty_html.html"
       
     # portfolio item loop
     - name : Bottol Label
