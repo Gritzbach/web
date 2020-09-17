@@ -41,7 +41,7 @@ portfolio:
       image_webp : https://raw.githubusercontent.com/Gritzbach/my_website/master/Singapore.webp
       categories : ["code"]
       content : The final project of Team 4 LBS MAM 2021.
-      link : "https://raw.githubusercontent.com/Gritzbach/my_website/master/pretty_html.html"
+      link : "https://gritzbach.github.io/html/pretty_html.html"
       
     # portfolio item loop
     - name : Bottol Label
