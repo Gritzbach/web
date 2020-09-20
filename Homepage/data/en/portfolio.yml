@@ -44,9 +44,9 @@ portfolio:
       link : "https://gritzbach.github.io/html/pretty_html.html"
       
     # portfolio item loop
-    - name : Bottol Label
+    - name : Photography Portfolio
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
       categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      content : This link takes you to my 500px photography portfolio showing most of my recent work.
+      link : "https://500px.com/p/michaelgritzbach?view=photos"
