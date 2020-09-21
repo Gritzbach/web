@@ -14,12 +14,12 @@
   translation: All
 - id: about
   translation: About Me
-- id: services
-  translation: Expertise
 - id: portfolio
   translation: Portfolio
-- id: team
-  translation: Me
+# - id: team
+#   translation: Me
+- id: services
+  translation: Expertise  
 # - id: pricing
 #   translation: Pricing
 - id: blog
