@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Michael Gritzbach"
-  content : " International Economist - Entrepreneur - Data Scientist - Passionated Photo Journalist "
+  content : " International Economist </br>  Entrepreneur </br>  Data Scientist </br>  Passionated Photo Journalist "
   button:
     enable : true
     label : "Learn More"
