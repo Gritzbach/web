@@ -1,23 +1,23 @@
 ############################### team ############################
-team:
-  enable : true
-  title : Michael Gritzbach
-  team_member :
-    # team member loop
-    - name : Michael Gritzbach
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
-      designation : Michael
-      content : International Economist </br>  Entrepreneur </br> Data Scientist </br> Passionated Photo Journalist
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.facebook.com/michael.gritzbach"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "https://github.com/Gritzbach"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/michael-gritzbach/"
-        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/michael.gritzbach/"
+# team:
+#   enable : true
+#   title : Michael Gritzbach
+#   team_member :
+#     # team member loop
+#     - name : Michael Gritzbach
+#       image_webp : images/team/team-1.webp
+#       image : images/team/team-1.jpg
+#       designation : Michael
+#       content : International Economist </br>  Entrepreneur </br> Data Scientist </br> Passionated Photo Journalist
+#       social :
+#         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+#           link : "https://www.facebook.com/michael.gritzbach"
+#         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+#           link : "https://github.com/Gritzbach"
+#         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+#           link : "https://www.linkedin.com/in/michael-gritzbach/"
+#         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+#           link : "https://www.instagram.com/michael.gritzbach/"
 # 
 #     # team member loop
 #     - name : Michael Jonson
