@@ -8,7 +8,7 @@ portfolio:
       image : images/portfolio/portfolio-Columbia.jpg
       image_webp : images/portfolio/portfolio-Columbia.webp
       categories : ["blog"]
-      content : About applying for Ivy League universities during undergrad.
+      content : About applying for Ivy League universities exchange.
       link : "https://blog.frankfurt-school.de/from-fs-to-ivy-league/"
       
     # portfolio item loop
@@ -24,7 +24,7 @@ portfolio:
       image : images/portfolio/portfolio-Harvard.jpg
       image_webp : images/portfolio/portfolio-Harvard.webp
       categories : ["blog"]
-      content : Achieving your long-time goals and what to do when you're there.
+      content : Achieving your long-time goals and what's next.
       link : "https://blog.frankfurt-school.de/to-harvard-and-beyond/"
       
     # portfolio item loop

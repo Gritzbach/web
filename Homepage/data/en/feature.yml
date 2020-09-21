@@ -9,17 +9,17 @@ feature:
       # feature item loop
     - title : China - US Conflicts
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : From my time at Peking University I have a comprehensive understanding of the current crisis situation between China, the US, and their allies.
+      content : From my time at Peking University I have a comprehensive understanding of the current situation between China, the US, and their allies.
       
       # feature item loop
     - title : European Security
       icon : ti-lock # themify icon pack : https://themify.me/themify-icons
-      content : As a participant of the 2020 Munich (Young) Security Conference and several conferences organized by the German military, the Mercator Institute, and the German government, I gained expertise on Europen and German security questions.
+      content : As a participant of the 2020 Munich (Young) Security Conference and several conferences organized by the German military, the Mercator Institute, and the German government, I gained expertise on European and German security questions.
 
       # feature item loop
     - title : Belt and Road Initiative
       icon : ti-truck # themify icon pack : https://themify.me/themify-icons
-      content : During my time in Harvard and at Peking University, I have researched about the BRI and its political implications.
+      content : During my time in Harvard and at Peking University, I have researched about the BRI and its political implications in regard to Eastern Europe and Pakistan.
       
       # feature item loop
     - title : Post COVID-19 Technology Investments
